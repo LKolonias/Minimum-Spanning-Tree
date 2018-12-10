@@ -9,15 +9,15 @@ Header file MST.hpp contains the class MST which implements:
 
 All algorithms are implemented in C++ using structures from the LEDA library (Algorithmic Solutions Software GmbH).<br>
 In main function takes place a comparison between this algorithm and LEDA's algorithm for constructing a minimum spanning tree, for the following types of graphs:
-
+<ul>
 <li>Random Consistent Graphs</li>
 <li>Grid Graphs</li>
 <li>Worst case scenario Graphs</li>
-
+</ul>
 
 <b>Instructions:</b><br>
 make<br>
-./run<br><br>
+./run<br>
 
 (Note that LEDA library is needed.)
 
