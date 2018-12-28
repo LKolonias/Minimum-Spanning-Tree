@@ -21,7 +21,7 @@ In main function takes place a comparison between this algorithm and LEDA's algo
 make<br>
 ./run<br>
 
-(Note that LEDA library is needed.)
+(Note that LEDA library is required.)
 
 
 
