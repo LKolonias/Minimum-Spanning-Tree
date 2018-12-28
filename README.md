@@ -15,6 +15,8 @@ In main function takes place a comparison between this algorithm and LEDA's algo
 <li>Worst case scenario Graphs</li>
 </ul>
 
+***
+
 <b>Instructions:</b><br>
 make<br>
 ./run<br>
