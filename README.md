@@ -5,7 +5,7 @@ Implementation of Kruskal's algorithm  for finding Minimum Spanning Trees in gra
 Header file MST.hpp contains the class MST which implements:
 1. Kruskal's algorithm
 2. A checker function
-3. A function that test the worst case of the algorithm
+3. A function that tests the worst case of the algorithm
 
 All algorithms are implemented in C++ using structures from the LEDA library (Algorithmic Solutions Software GmbH).<br>
 In main function takes place a comparison between this algorithm and LEDA's algorithm for constructing a minimum spanning tree, for the following types of graphs:
